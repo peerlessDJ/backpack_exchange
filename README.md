@@ -6,7 +6,7 @@
  先运行 npm install
  后运行 node ./index.js
 
- 先用我的邀请码注册backpack交易所：https://backpack.exchange/signup?referral=9ed76787-d966-4122-9a58-cd93d3a44de3
+ 先用我的邀请码注册backpack交易所：https://backpack.exchange/refer/8e71d2e4-dc22-4759-8ac2-24f12e2345ea
  不会的用脚本的可以推特私信问我 https://twitter.com/zisan_xyz
 
  没node的安装一下 这是教程：https://www.runoob.com/nodejs/nodejs-install-setup.html
